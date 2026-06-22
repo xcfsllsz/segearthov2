@@ -1,0 +1,19 @@
+background
+roof
+dirt road,unpaved road,dirt_motor_road
+paved road,paved_motor_road
+river
+swimming pool,pool
+bridge
+container,shipping container
+airstrip,runway
+traffic barrier,barrier
+green field,grassland,grass
+wild field,scrubland,bushes
+solar panel,solar_board
+umbrella,parasol
+glass roof,transparent roof,greenhouse roof
+parking lot,car park,car_park
+sidewalk,paved walk,paved_walkway
+car,sedan
+truck
