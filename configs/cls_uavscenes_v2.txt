@@ -1,0 +1,19 @@
+other land cover,miscellaneous,unlabeled
+roof,factory roof,residential roof
+rural dirt road,farm track,country road,dirt road
+street,urban road,roadway,paved road
+natural river channel,flowing water,stream
+square pool,small pond,water reservoir
+bridge,crossing,viaduct
+rectangular container,metal container,storage box
+runway,takeoff strip,landing area
+road barrier,safety barrier,crash barrier
+grassland,meadow,green space,lawn
+weed area,overgrown field,bushes,scrub
+blue solar panel,energy panel,solar collector
+garden umbrella,patio umbrella,shade
+greenhouse,plastic roof,glass ceiling
+vehicle parking,car lot,paved parking
+concrete walkway,cobblestone path,paved footpath
+sedan,family car,city car
+truck,big vehicle,delivery truck

@@ -1,0 +1,19 @@
+background,unlabeled region,void
+rooftop,building top,house roof
+unpaved road,gravel road,soil track,dirt road
+asphalt road,concrete highway,motorway,paved road
+river,stream,waterway,canal
+water pool,artificial pond,reservoir,swimming pool
+overpass,flyover,river bridge,highway bridge
+cargo container,freight container,storage container,shipping container
+airport runway,landing strip,aviation runway
+guardrail,median barrier,road fence,highway barrier
+lawn,crop field,vegetation,pasture,green field
+shrubland,dry grassland,barren field,fallow land,wild field
+photovoltaic panel,solar array,pv module,solar panel
+sun umbrella,outdoor umbrella,beach umbrella,parasol
+transparent roof,skylight,polycarbonate roof,glass roof
+parking space,open parking area,outdoor parking,parking lot
+pedestrian walkway,footpath,pavement trail,sidewalk
+automobile,passenger car,small vehicle,car
+lorry,cargo truck,heavy vehicle,container truck

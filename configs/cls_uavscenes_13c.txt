@@ -1,0 +1,13 @@
+background
+roof
+asphalt road,concrete highway,motorway,paved road
+natural river channel,flowing water,stream
+cargo container,freight container,storage container,shipping container
+runway,takeoff strip,landing area
+lawn,crop field,vegetation,pasture,green field
+shrubland,dry grassland,barren field,fallow land,wild field
+solar panel,solar_board
+glass roof,transparent roof,greenhouse roof
+parking space,open parking area,outdoor parking,parking lot
+pedestrian walkway,footpath,pavement trail,sidewalk
+automobile,passenger car,small vehicle,car
